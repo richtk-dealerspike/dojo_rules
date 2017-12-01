@@ -1,2 +1,5 @@
 Hi Rich forked dojo_rules
-Javascript
+Deadly Skills:
+*Javascript
+*Git
+*Killing history using git rebase
